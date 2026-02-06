@@ -137,7 +137,9 @@ A demo page is included to prove real-time messaging.
 1.  Login via Postman and copy your JWT token
 2.  Open:
 
+```{=html}
     http://localhost:8000/echo-test
+```
 
 3.  Paste your token into echo-test.blade.php
 4.  Keep the page open
