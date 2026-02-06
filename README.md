@@ -21,7 +21,7 @@ It fulfills all the requirements of the technical assessment:
 ### 1) Clone the project
 
 ``` bash
-git clone <repo-url>
+git clone https://github.com/Ahmed-Reda99/DevSolutions-Task.git
 cd <project-folder>
 ```
 
